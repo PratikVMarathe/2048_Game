@@ -1,4 +1,3 @@
----
 
 # 2048 Game
 
@@ -43,5 +42,3 @@ python game2048.py
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request! Good luck, and happy coding! 😊
-
----
